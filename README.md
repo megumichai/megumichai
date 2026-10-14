@@ -2,8 +2,8 @@
 
 ![GitHub Activity Graph](profile/activity.svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=megumichai&show_icons=true&theme=radical)
+![GitHub Stats](profile/stats.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megumichai&layout=compact&theme=radical)
+![Top Langs](profile/top-langs.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=megumichai&theme=radical)
