@@ -1,3 +1,5 @@
+## Hi there 👋
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=megumichai&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megumichai&layout=compact&theme=radical)
