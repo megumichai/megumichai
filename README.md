@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![GitHub Activity Graph](profile/activity.svg)
+![Isometric commit calendar](profile/isocalendar.svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=megumichai&show_icons=true&theme=radical)
 
